@@ -1,5 +1,6 @@
 ---
-title: "ESM 206/244 GitHub Testing"
+title: "ESM 206/244 GitHub Testing - MODIFIED"
+author: "Carmen Galaz-García"
 output: html_document
 ---
 
@@ -7,17 +8,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: 
+Type your name (or anything else) HERE: ola ke ase! aprendiendo a usar git o ke ase
 
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+diez <- 10
 
-red <- 15
+dos <- 2
 
-purple <- blue/red
+cinco <- diez/dos
 
 ```
 
